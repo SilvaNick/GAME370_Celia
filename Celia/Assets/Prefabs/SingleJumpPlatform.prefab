@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8246983370586647281}
   - component: {fileID: 4629149924620097909}
   - component: {fileID: 7981711289415817835}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Single Jump Height Guide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,7 +93,7 @@ GameObject:
   - component: {fileID: 6572155267326432681}
   - component: {fileID: 6572155267326432680}
   - component: {fileID: 6572155267326432683}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: SingleJumpPlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}

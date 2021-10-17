@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2587191521185443794}
   - component: {fileID: 8257564815557652201}
   - component: {fileID: 1912968694559986136}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: HorizontalMovingPlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -107,7 +107,7 @@ GameObject:
   - component: {fileID: 2655319654759705722}
   - component: {fileID: 3338478943540197519}
   - component: {fileID: 6331226042123423095}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MovementGuide
   m_TagString: Untagged
   m_Icon: {fileID: 0}

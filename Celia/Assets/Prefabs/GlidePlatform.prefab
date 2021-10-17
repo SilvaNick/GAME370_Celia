@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4953369609494352225}
   - component: {fileID: 8425669814080197419}
   - component: {fileID: 3266906509020272059}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Glide Length Guide
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -93,7 +93,7 @@ GameObject:
   - component: {fileID: 4398465385344068281}
   - component: {fileID: 2315336177398168421}
   - component: {fileID: 1976681054084708356}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GlidePlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4590281508895724389}
   - component: {fileID: 4590281508895724390}
   - component: {fileID: 4590281508895724391}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: DoubleJumpPlatform
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -107,7 +107,7 @@ GameObject:
   - component: {fileID: 6483317425611573471}
   - component: {fileID: 1550445472739387574}
   - component: {fileID: 5594308833860286501}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Double Jump Height Guide
   m_TagString: Untagged
   m_Icon: {fileID: 0}

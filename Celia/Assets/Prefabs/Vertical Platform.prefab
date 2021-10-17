@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 5323722443787698563}
   - component: {fileID: 5323722443787698572}
   - component: {fileID: 5323722443787698573}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Vertical Height
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -108,7 +108,7 @@ GameObject:
   - component: {fileID: 5323722444828476102}
   - component: {fileID: 5323722444828476103}
   - component: {fileID: 5323722444828476096}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Vertical Platform
   m_TagString: Untagged
   m_Icon: {fileID: 0}

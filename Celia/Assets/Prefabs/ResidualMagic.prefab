@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 429500710600257592}
   - component: {fileID: 6771117314971867886}
   - component: {fileID: 1810105137096270051}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: ResidualMagic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
